@@ -1,0 +1,7 @@
+To do:
+-Hook GUI to code (David trying to figure it out)
+-Test suite
+-Get data files read in and set up correctly 
+-Provided classes needed for pattern
+-Explore iterator for courses to eliminate for loops in advising 
+-set up possible validation checks; Check GPA first -> advise based on degree and semester -> display courses 
